@@ -1,16 +1,14 @@
 <?xml version="1.0"?>
-<project name="cse1325 basic build" default="build">
-  <presetdef name="javac">
-    <javac includeantruntime="false" />
-  </presetdef>
+<project name="CSE1325" default="build">
 
   <target name="build" description="Compile source tree java files">
-    <javac debug="true" failonerror="true">
+    <javac includeantruntime="false" debug="true" failonerror="true">
       <src path="."/>
     </javac>
   </target>
-  
+
   <target name="clean" description="Clean output files">
+    <delete dir="docs/api"/>
     <delete>
       <fileset dir=".">
         <include name="**/*.class"/>
