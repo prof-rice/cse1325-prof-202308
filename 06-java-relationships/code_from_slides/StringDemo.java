@@ -6,7 +6,6 @@ public class StringDemo {
         
         // Java 16+ includes Text Blocks for initializating multiline String objects.
         // Note the use of triple-double-quotes to encode the sentence.
-        // I have commented out the code in case you don't have that version.
 
         String humpty = """
                         "When I use a word," Humpty Dumpty said,
@@ -31,15 +30,16 @@ public class StringDemo {
         //   String compared = compares[Integer.signum(first.compareTo(last))+1];
         //   System.out.println(first + " is" + compared + last);
         String compared = " equals ";
-        if (first.compareTo(last) < 0) compared = " less than ";
-        else if (first.compareTo(last) > 0) compared = " greater than ";
+        if (first.compareTo(last) < 0) compared = " is less than ";
+        else if (first.compareTo(last) > 0) compared = " is greater than ";
+        System.out.println(first + compared + last + " (considering case)");
 
         // We can also ignore case
         String sarcasm = "GeOrGe";
         compared = " equals ";
-        if (sarcasm.compareTo(last) < 0) compared = " less than ";
-        else if (sarcasm.compareTo(last) > 0) compared = " greater than ";
-        System.out.println(first + " is" + compared + sarcasm + " (considering case)");
+        if (sarcasm.compareTo(first) < 0) compared = " is less than ";
+        else if (sarcasm.compareTo(first) > 0) compared = " is greater than ";
+        System.out.println(sarcasm + compared + first + " (considering case)");
 
         // We could also use first.equals(last) and first.equalsIgnoreCase(sarcasm)
         if(first.equalsIgnoreCase(sarcasm))
@@ -74,6 +74,7 @@ public class StringDemo {
         
         // We can remove whitespace from both ends of the String and convert 
         //   to upper (toUpperCase) or lower (toLowerCase) case
+        // (Whitespace in between words is ignored)
         String spacey = "  I do object-oriented!   \n";
         System.out.println(spacey.trim() + " I said, " + spacey.trim().toUpperCase());
         
