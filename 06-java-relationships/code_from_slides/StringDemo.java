@@ -7,13 +7,13 @@ public class StringDemo {
         // Java 16+ includes Text Blocks for initializating multiline String objects.
         // Note the use of triple-double-quotes to encode the sentence.
         // I have commented out the code in case you don't have that version.
-        /*
+
         String humpty = """
                         "When I use a word," Humpty Dumpty said,
                         in rather a scornful tone, "it means just what I
-                        choose it to mean - neither more nor less."""";
-        */
-        
+                        choose it to mean - neither more nor less." """;
+        System.out.println(humpty);
+
         // Special case for concatenating String objects using +, but could use
         //     s.concat(" characters");
         // The length() method returns the number of characters in the String
@@ -27,17 +27,19 @@ public class StringDemo {
         
         // Integer.signum returns -1 if negative, 1 if positive, or 0 otherwise
         // Alternately, we could do this:
-        //   String compared = " equals ";
-        //   if (first.compareTo(last) < 0) compared = " less than ";
-        //   else if (first.compareTo(last) > 0) compared = " greater than ";
-        String[] compares = {" less than ", " equal to ", " greater than "};
-        String compared = compares[Integer.signum(first.compareTo(last))+1];
-        System.out.println(first + " is" + compared + last);
+        //   String[] compares = {" less than ", " equal to ", " greater than "};
+        //   String compared = compares[Integer.signum(first.compareTo(last))+1];
+        //   System.out.println(first + " is" + compared + last);
+        String compared = " equals ";
+        if (first.compareTo(last) < 0) compared = " less than ";
+        else if (first.compareTo(last) > 0) compared = " greater than ";
 
         // We can also ignore case
         String sarcasm = "GeOrGe";
-        compared = compares[Integer.signum(first.compareToIgnoreCase(sarcasm))+1];
-        System.out.println(first + " is" + compared + sarcasm + " (ignoring case)");
+        compared = " equals ";
+        if (sarcasm.compareTo(last) < 0) compared = " less than ";
+        else if (sarcasm.compareTo(last) > 0) compared = " greater than ";
+        System.out.println(first + " is" + compared + sarcasm + " (considering case)");
 
         // We could also use first.equals(last) and first.equalsIgnoreCase(sarcasm)
         if(first.equalsIgnoreCase(sarcasm))
