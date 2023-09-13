@@ -1,0 +1,50 @@
+Great Reads Library
+In Search of Lost Time
+Marcel Proust
+1913
+Ulysses
+James Joyce
+1904
+The Great Gatsby
+F. Scott Fitzgerald
+1925
+Moby Dick
+Herman Melville
+1900
+War and Peace
+Leo Tolstoy
+1900
+Hamlet
+William Shakespeare
+1900
+The Divine Comedy
+Dante Alighieri
+1900
+The Brothers Karamazov
+Fyodor Dostoyevsky
+1900
+Alice's Adventures in Wonderland
+Lewis Carroll
+1900
+Catch-22
+Joseph Heller
+1961
+
+Joan of Arc
+heroine@france.gov
+Wolfgang Amadeus Mozart
+mozart@greatmusic.com
+Charles Darwin
+charlie@beagle.ship
+Albert Einstein
+albert@backtothefuture.movie
+Mahatma Gandhi
+gandhi@peace.org
+William Shakespeare
+thebard@english.lit
+President Abraham Lincoln
+united@stand.we
+Niel Armstrong
+first@lunar.moon
+
+
