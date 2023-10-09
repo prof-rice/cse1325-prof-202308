@@ -1,0 +1,206 @@
+
+Solution:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+D - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- R E D A E L P S - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - A - - - - - A - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - U - - - - R - - - - - - G - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - G - - - A - - - - - - - N - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - N - - H - - - - - - - - I - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- T H O U S A N D - - - S - - M A R P L E - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - S M V A - - Y - - - - - - - P - - - R - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - S - H B - - - O - - E - - - - - - O - E - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - Y H U I - - B - - - - P - - - - - - M - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - T - T E - R - - N M - - I - S - - R - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - A - D N A - - - - A - - - L N - O - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - E K O O C E - - - - M P - - D E F - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - R - - W E - V - - - E - L I Y R F - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - O - - N H - - E - - T - N E E R A - - - H - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - S - - S - I - - L S - H - P S A E W - E - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - I - - W - - P - - E U - - - A D S N R - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - N - - - H - A P S M - - - - M H A A I E - - - - - Y - Y - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+M A S C A G N I S Y A I - Y T T A H C - - F T - E - L - - A - - - - - - - - N - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+S L E K R O N S T N - R - - - - R L R R - - E F S L - S - W - - - - - - M I L L E R - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- H T M R A W I L T Y A C - E - I - A - O - - R A - K - P M - S H U C K G - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - R - R Y - E L M - H Q T T - M S - C E U - - - C - A - - - A - G - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - E - O - - - B L I - - U - A - E - - M S - - - - - E - R - N - A - - - - - S - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - M - I - - K - R U S N S I S N I N S E N O L O C - - - P - E - R L - - - - - S Y E G O B - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- O - R - - A - - E F D - G V P B P T S E P O T O S I - W R S - D - L - L - - - I - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+P - P - - F I - - H R R N - O A - R S S - - - - - - - I E - - - - - E E - - - - D - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - T - L - - S E O O - C C D E - L S E I D D A L K - - - W - - G - - - - - B - D - - - - - - - - - S - - - - - - - - - - - - - - - - - - - - - - 
+- - L A - - L - - - W W T S A E B O H I - - - - - K E - - - - - I W R - - - E - Y A - - - - - - - - - W - - - - - - - - - - - - - - - - - - - - - - - 
+- - N U - - E T - - O S H - T S A C A C - - D - E E - - - - - - O N A - B - - T R - - - - - - - - - A - - - - - - - - - - - - - - - - - - - - - - - - 
+- S - - F - M H - - P S G C I H T C P K - - - R S E Z E E R F R - - D U - - H E A - - - - - - - - H - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - D - - T A R - H - O U - O I S U H N - - S E U - - - - C K - - - T W - R D N H N - - - - - - E - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - E - - D C E L - - R A - N P M P A E - O T R - M - - - A N - - H - - A E T O C M U T I N I E D - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - S - - E - E - - T C N P S - A A Z S N A U - - - M - - C O - T - - L V R - O - S - T - - H - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - E - - S B S P S S - C R - S N T A S C M - T - - - E - H B A - - D I A - D S H - M - R - H - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - R Q - I R C N S F - M O - S S I R I P - - - M - - - R E B S S O L N - - E S - E - - - O - U - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - V U T H I O O - E - - M - E - O D E - - - S H A Y K H S I T M S S - - O I A M - - - N - F T D - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - E I - C C R N - H R - E S N - N L - - S T A S D N A L - E S - M E - H F - B D E T O V I P I - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - S B - E K E C - C - - N Y E I S Y - - - Z - H N - O - - S I U - - N N - E - - - R - - - A C - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- S - B R T L S O - - - - A T V T - - - - A - - Y S O - E - T T - - A U H R - - - A - - - P - A - B - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - S L - A A N M - - - M D I I - - - - N - - - P - T T - U E I A V S - S S - - B - - - E - - - U - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - O E - C Y O B - - A - E L T - - - A - - - - N - - S N D V A I T - H - - I L Y - - R - - - S - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - I R - - I R A - L - D T A C - - S - - - - - O - - - I E - R - - I - T N E L I T S E P - S - L - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - R S - - N E T G - E S - I U - - - - - - - - T - - - - X K T E P - S - - G S O F T N E S S U - S - - - - - - - - - - - - - - - - - - - - - - - - - 
+- S A Y I N G S A - T K - - C R O L L E D - G N I N I L M A E R T S - - T N A C R O B A T I C T - S - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - S - S - S M N A I S N O I T A C I F I T O N S - M N - S - O A - - - I I - - - - F - - K - N - E - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - O K - G A - T N - - - - F S R E X A O H - - M - O - I - K P C T C N T A C B O B - - S - D S T L - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - R - R T N I S S - - - P R E D I S P O S I T I O N S - P - C - - E O - - - S - - - - S E - A - E - M - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - I A P I - - G - - - E D - C - S S - - - - - S U N S P E A K A B L E - S - - - S N - N W F G E N - - - - - F - - - - - - - - - - - - - - - - - 
+- - - O - I M - W S J N - - P - O - E - T - - - - - T - - - - O C N - V - O - - K - E S - T - L - A - O - - - - - A - - - - - - - - - - - - - - - - - 
+- - N S C - - K - O H - I - U N - I - T N E M T A E R T L A M I N - K - A S R H - R I D A - I - L - - H - - - - - I - - - Y - - - - - - - - - - - - - 
+- S - E - - - E C A H E - T S - D - E - E M B Y E L O R U S S I A S - K S L E S I T O L I P O T U A - T - - - - - R - - L - - - - - - - - - - - - - - 
+- - R T - - - K L O N S E E N O - - X - M - U S - - S S S E N I Z Z U F C E I H Y L U F P W I B - - - A - P W - - N - I - - - - - - - - - - - - - - - 
+- P - T - - S - I B P T R R O U - - P - E - E G - - I - - M - - - - - - - I S S C S A E H M D - R - - N - R E - - E T - - - - - - - - - - - - - - - - 
+L O D E S T - - O - A V E G I - B - E - S D - - G L T - - - U - - - - - - K N U E N R R E C Y L D E T O V E D - T S - - - - - - - - - - - - - - - - - 
+- - E G R - - - S - A R - D T N - - C - A - - - U I I E - - - T S - - - R - - K O S E A Y - T - R - T J - S L T I S Q - - - - - - - - - - - - - - - - 
+- - S A - - - - - T - - E - A - G - T Z E - - F - R E P L A C E A B L E S I - - S H - R L - - I - O - T P E O M - N - U - - - - - - - - - - - - - - - 
+- - P R - - - - I - - - - V R T - - A - P - E - - - S R - T - - I M B - T - G - - Y R S T L - - P - W O - R C - S L - - I - - - - - - - - - - - - - - 
+- S E F - S T S I L O P O N O M E R N - P M - - - - - R - - T - D - I - A A - H - - A O - E I - - - C - R V K H N I L - - S - - - - - - - - - - - - - 
+- B R F - - M - - - - - - - I C E S C - A N I F E S O J E - - O E - - T R - N - T K - S O - R P - - - A - E S - A K I - - - H - - - - - - - - - - - - 
+- M A U - S - - - - - - - - L H E - Y H - - - - - - - - - B - - M - - - L - - I N N - - - P - - - - G - - S - - C P T - - - - E - - - - - - - - - - - 
+- I D S - T N E M B M O T N E - - R S E X O R E X - - - - - U - - - - - I U - I G - E - - - - - - - - - - - - - K - E - - - - - D - - - - - - - - - - 
+- L O - - - - - - - - - - H M - - - - - - - - - - - - - - - - A - - - - N - Y - - A - S - - - - - - - - - - - - I - R R - - - - - - - - - - - - - - - 
+- C S - - - - - - - - - C - A - - - - - - - - - - - - - - - - - D - - - G O - - - - P - S - - - - - - - - - - - N - A - O - - - - - - - - - - - - - - 
+- - - - - - T H I C K S E T - - - - - - - - - - - - - - - U N D O I N G S - - - - - - - - - - - - - - - - - - - G - L - - N - - - - - - - - - - - - - 
+
+
+T S N E H C S E S K D N N E L P A C C O P R B S M U S I R S A S A S S L T E P S P Y M U D O X A N D D I E N S T A M O N S O S J H A E C I A B S U A F 
+O K S A A O L W M R E S K S E V U S O M A B V T B S E A E O A I A S T L O I N E L S R L U O C N M I U A R Q Y R E S B T A E G A E A D D R L O O M C N 
+S N F O G E F S U U M R S S E G I S E R T R L O O E L C B L G M B I A S I O N G S A R E I S E D H X E T X K A S O S N N E N O A S H S Y N C U F T K N 
+S E L T V O S S P F O S E A O H D I K S L O R M T R H U G Y A E R R U S I V Y I O H R I D F F T K E N T L S C T I O S C U H H R H Y P N O B D E D T I 
+E S L O A H L K C E I U L I S D S A K Y O C T O A E K M Y F S N I M L H O E L E E E E E O F P A I D S A E B R N K U C S A R T C A E R I L H W L O H A 
+O C I R I A O N E E B O E S T S R A S O T C C E E I R A A H O K E A L S B L E G U C U D O E G E S A E S I T I N Y A E H O S S T U G Q P O P E R T P S 
+S S G E E C S I L P S A D S O R O E F O S I P O D T N N A O O I N S O D G R R A L T A I A W T S C P H S I R R C O Y L R R O N R N S E W P Y K E N Y E 
+I E E S S T N U E S H I C M F S T E U N I D I A T Y T S L R N E B D T C S I S N A H Y N L C O I S W N M R Y E S E S M S G A N A C T S E O C O U Y S L 
+K N Y S E A C S C E R T R S H B A U I A A A P O A D B C N S I A O E B O A J S M E A I M T E T S N B S T S P A E Z S O N A I U T D R E Q A C I D S T I 
+S N S R T A Y H A S M N P N T M E S U E T Y B O I G S E E A I H R S E E B E N F E L Y E U N Y M A R S I R N I H E C H B P B H S S T D V N W R A A A E 
+B I N T S Y I P P T I E S I A H U C S A S L E T L O Y G B I U E M A L P E O I I O I I A I L H D I T D E B P A S N T N R E D C I N M R M W F F S D A E 
+D R B A B K Y P P M S I M E D E C P F K B O P N G C E O A P A E E T S P A S M M P E N H A A C A U N S E T W S C T M N I R N R R S H N C H A E C I T U 
+N R E D A E L P S H T E O Y I S D J T S E A R A E M A N D V A R S L I E F H R M A E S N R N I S O S C Y D S R A S H M R W B P U R E S A A O S R G K L 
+D H A C P E N A A R E H S L E B I S T I N V S F D O A A A A A S U S S D L C S H B I L B O A R A N O C S L I H E V C A K W A O S M I N R T P E E Z I K 
+E Y T U S A L N R B H C O S Y G F R S S R U N R L E L E W N S A L S S S L E S O T I C S E A A E I B D L K L E L Y E A T N C R S C H E P R Z Y I S P I 
+D S E U G X N M A A A C T I T A N I B M M H S Y E L S M H A G I T I O I D K H E P P T M P I A A H S S S A Z S I E A N O T S I N N R S W L T N R U C R 
+A A L I S N E U H N A F S S D B O I G V A Y A F E A A K E M I Y K R O E E R H A E I S T H I I R A N A S P E L O B R U T L L O E E D N N E C H L E E H 
+S T H O U S A N D E N S S O S M A R P L E S C N R Y I C T L A I S K S S I I V W S N N D W C E T M W S I H I R O A T O E T I R M Q Y I J S K A R R E D 
+T N B M R S M V A D R Y A S S A N B L P E L S R N A T O N U U H D P E C R A S S E H L Y M I S M S F K F S S E C T D X L E S S L T E S N O I O S I M H 
+S N T S I H B T U K O T T E E A K S E R O P E S U E L H N A G D I K H A N S O I A T O I P I C E A N V M M A S T C S C H A S I E S S S K K E P S R E W 
+U D P Y H U I R I B S N P L P S K U A P S M A D P X T S I U T H E N N L U L A D R S E G T A U E I C N D K L K N S R T P C O C T I E T S S B L S E S R 
+K L J T S T E R R P S N M E R I E S M A R S M R D F S O H F P P I W A L C A T N P H N E S E T Z U N M L O C S A Y R R Y O S N F R Z P H V I S M T L N 
+E T A A E D N A C R H I A U A H L N T O Y O I S E N S T I C A E I C U S X E T O S I E E S J R P I T L P O S R E U R I E A I T S K S L A E B E E O M U 
+E I E K O O C E O A T L M P C D D E F I O A E U S N L E R K S E R E C C H S E S M H E E R U O R T I T D H E T E C D E M G O R P S R A M D S E E S N A 
+R S R C E W E R V K O R E F L I Y R F S N C R M A M A Y P R S L I T H O S G L O T I C A H E A I O U S N E S O A A N C S N A O C O P M E H C I L I G R 
+N Y O S P N H N I E N M T O N E E R A E I A H T B Y L E L U K L N G S S D R A D A F O U E L E O I L E N D A N O E E T O R B L L W N E R N N E O Y S E 
+S O S I H S T I E V L S L H S P S A E W B E U S L O L S U S A P L R A B R P L S N S Y C E M E R N O S B S P G U L D A S E I A D R M E E O L H Y F M E 
+I P I I N W P X P V A E U L R M A D S N R A S A N M D E A M C S E L L L C E I E A N N Y I B L S T P D S G F P S E R A T S A H S L R G C N U K O A O T 
+E M N E F I H L A P S M L A S E M H A A I E F R G A B Y R Y E S S O G L C E N T S C R A E R U I S S C O M S N K I T E A R A H U C R M S I A T P M A T 
+M A S C A G N I S Y A I T Y T T A H C N R F T T E I L D K A I E U S S I N E N S L E S S O D A O P N A A N A A T P E T S C F I M N E I K R N L S I C W 
+S L E K R O N S T N E R E C E H R L R R L I E F S L N S E W T H N E L C M I L L E R R O O I A N E S P S N I I S N E B S P G I C I U T P E M I R N L S 
+E H T M R A W I L T Y A C K E S I S A A O B H R A O K O P M S S H U C K G U I O S S N T H N I S I S E I S O S K D E L V O S S A R O N N H E H U M N O 
+D K L R R O R Y L E L M N H Q T T R M S L C E U Y N A C T A O A E A O G S A D P R S E A T A R N O O P O R E T I A T D D B S Z E V E R I N L N F R S M 
+T B R E U O R K D B L I R S U C A E E E L M S S N N A E E A R N N T A S H Q S L S G E D K I D A T N T W T O G S B P E N M T E M S I E T S A E S B A E 
+A S M P I R A K S R U S N S I S N I N S E N O L O C U O D P N E D R L L P Y E B S Y E G O B S K M I O R N E E U D I E A N E A S G C S T N I E N S O I 
+U O M R R C A S K E F D A G V P B P T S E P O T O S I I W R S U D E L N L R O O I X E L R A N T A R L E T E E A E S C E I S S S E E N O N N C O S L S 
+P N P S C F I T A H R R N L O A T R S S S T H Y R V N I E A E S L A E E R D R S D N E N D L S G B W N N O T I S P A E E S D S C N I A I L N E M R A I 
+A N U R T P L I S S E O O E C C D E N L S E I D D A L K I P O W E C G H O R B A B G D P C E B A E C C D S E S E A I E L O D E S R E N L S D M D E R N 
+R T L A S E L L S N W W T S A E B O H I N N K B D K E E C R I L I W R A T N E E Y A S A H I F T R O C W R I O I A M O T A S R L T P S D S S N P A S S 
+L A N U R D E T V A O S H S T S A C A C L E D I E E T B A P B F O N A T B E F T R P Y E L N V N L Y A S A T E I O A I A T I D N O T A R C R S A U A A 
+E S U I F S M H N S P S G C I H T C P K L A I R S E Z E E R F R H A D U S E H E A L D U S L E A L H S E H O G K E H S S P B T T A P A E I S L U E E E 
+A B D S Z T A R H H R O U T O I S U H N I U S E U R A S K C K E I S T W O R D N H N A S S E M N E S U B E B P E H A E K S O T S E C I S A S P S R P T 
+D L E E L D C E L T Z R A F N P M P A E I O T R R M S A R A N R N H E D A E T O C M U T I N I E D M S A L E S I D Y C S B E B A I Z A S E I A C T E U 
+H E S P L E R E E N T C N P S O A A Z S N A U S Y S M K S C O A T A C L V R R O N S H T R A H S U P S Q D A Y R R A T S G O T S N S E O A I G E S E N 
+E E E R F S B S P S S A C R N S N T A S C M U T I I I E I H B A S V D I A L D S H U M E R D H S A X F O J M E B R C A H H C D M P D S C S O E C S L L 
+E T R Q I I R C N S F I M O K S S I R I P A E E M T A F R E B S S O L N S T E S O E O W T O O U S K C P N N K S S S I I S M E T A A A T R E S A N S L 
+I I V U T H I O O N E M S M R E D O D E E T Y S H A Y K H S I T M S S O P O I A M E U L N T F T D E S E S E R A E F O I N U A D S E H T N I R E R E N 
+R I E I C C C R N R H R F E S N A N L B Y S T A S D N A L N E S I M E R H F P B D E T O V I P I A P E T N M C I A H T N S P T K S E A V S M F C E N N 
+O S S B E E K E C N C E E N Y E I S Y S T O Z E H N V O S I S I U M D N N P E M K L R B T F A C E E I B Y W C R R T E D A C A I C L F E L I A E A A C 
+S S S B R T L S O K E E C A T V T E D T E A L A Y S O P E A T T D T A U H R L N C A P S A P A A A B Z T C A S H D N B W C S O S D N E C A Y Y R E S R 
+N G S L T A A N M I S E M D I I E R B X N I H U P H T T R U E I A V S F S S I S B I T A E L N A U B E O B S M E L L R P P A R R S E A M S P S X O P B 
+Y R O E U C Y O B T S A E E L T H S N A I U N O N U N S N D V A I T H H L A I L Y I O R K S O S C S M S S I M U R P O N T E U O M T C W A K M T U O E 
+A P I R O Y I R A O L O D T A C M S S L T D E C O H L M I E O R L S I N T N E L I T S E P A S E L N E D K A U S T K K A C D E E G B A N U S I H P S N 
+T I R S S R N E T G N E S O I U T T I I C T O T T A S P E X K T E P S S T P G S O F T N E S S U S S O V L O S D S C O T A R M I X G T U E E R S S A S 
+A S A Y I N G S A S T K S L C R O L L E D S G N I N I L M A E R T S R S T N A C R O B A T I C T P S S K V W U E N E R A F E S I U E C M S W B P R K T 
+L M S M S U S M N A I S N O I T A C I F I T O N S M M N H S M O A I A P I I I M S E F S A K S N S E W P T E E R O I A C V G O I I A D I T I E N T R T 
+R T O K N G A M T N O E A G F S R E X A O H E C M N O C I S K P C T C N T A C B O B L O S O D S T L S S P O T N W C P E R R I E T A H Z F S R A E X T 
+S T R L R T N I S S E U B P R E D I S P O S I T I O N S R P O C S S E O K I I S N S I S S E S A V E A M S L T M N P E E I K A E R B O S R A T S S S S 
+Z I O M I A P I T C G T N I E D N C S S S I R C K U S U N S P E A K A B L E M S C U T S N H N W F G E N N W C A Z F N A E O S S T N E L D F C L N S N 
+S S E O W I M O W S J N E I P A O O E O T I U N E N T N C N O O C N O V H O I E K G E S I T S L O A C O P V E A A A R O L R O N I L E O R M E L D I S 
+O W N S C N S K E O H E I E U N H I I T N E M T A E R T L A M I N G K C A S R H O R I D A M I R L A S H E G A O S I T E B Y S B C P S E P Y K R B R U 
+N S M E E B S E C A H E F T S R D A E N E M B Y E L O R U S S I A S L K S L E S I T O L I P O T U A L T S I E N O R K E L N L O N M E G I N L O B L S 
+S E R T P T B K L O N S E E N O Z O X R M E U S G N S S S E N I Z Z U F C E I H Y L U F P W I B E H I A W P W K R N L I L M I V S M A C S S G E D D K 
+S P C T I D S R I B P T R R O U R E P S E S E G S I I S U M T N N B T K T I S S C S A E H M D L R R A N S R E A O E T S S D N O U T L E S B E I E S R 
+L O D E S T S H O I A V E G I E B S E P S D U K G L T A A N U G P B E H M K N U E N R R E C Y L D E T O V E D C T S E R B E T O A P O I Y R T T A E A 
+S R E G R O T K S H A R R D T N R I C K A L I H U I I E E N K T S O A T R U S K O S E A Y R T A R H T J N S L T I S Q A M R M C O S D O A S I S I I S 
+C O S A I Y T T I T S N E E A I G I T Z E P G F G R E P L A C E A B L E S I T M S H L R L M E I F O L T P E O M R N N U M B R E M E D A R K S D O N G 
+B S P R M O E I I E S D C V R T T A A I P S E I A S S R N T E M I M B E T P G S I Y R S T L C H P A W O L R C E S L U R I T G T E L S T A I A H S T L 
+L S E F L S T S I L O P O N O M E R N B P M R E E C H R T H T E D S I L A A T H F A A O L E I T R O C S R V K H N I L E E S S T S L W E A U A Y I L S 
+M B R F F E M B N I W S A Y I C E S C O A N I F E S O J E O O O E L M T R M N S T K E S O A R P I I D A L E S S A K I R G R H C T C Z O C S A N E I R 
+E M A U B S F L P Q D H D S L H E N Y H G A I B M A P P K B L K M L S O L S N I N N O R O P O D E I G A M S U K C P T A I T C E M M A U E G N L B O R 
+B I D S A T N E M B M O T N E O L R S E X O R E X I U X O D U N B H A M I U Y I G T E I R E K G M E L S O D H L K A E A K S A I D S O T S L A E Z M S 
+H L O S S I A L S C F E N H M P E F E C U E F B D E O R K E S A E N A P N B Y A B A M S E I S M M S K V T T D A I D R R R Y T S X I A T O P S E A Y S 
+S C S B T I D A I O R D C O A E E A U E A T A S A T S S O U N T D R T R G O S R T C P T S A U E E N U C S S P R N P A A O O K E K S E L C R Q X I L H 
+W E M R O E T H I C K S E T C U O A T T L R R D A M S S O U N D O I N G S I T R S S A N N A M S F T C H L Y T S G D L H S N Z R I A F A C S H I I L R 
+
+
+ACROBATIC        DEVOTEDLY        MISTILY          SCORCH
+ADHARAS          DIAPERS          MONOPOLISTS      SEEKER
+AFTERWARD        DRUMMER          MONSTROSITIES    SEMIRAMIS
+AGELESS          ELEVENTHS        MOPPING          SENSUALLY
+ALLEGRA          ENTOMBMENT       MOTTLE           SHAMEFUL
+AMALGAMATIONS    EQUIVOCATIONS    MUGGIER          SHAYKHS
+AMBIENCE         EXPECTANCYS      MUTINIED         SHEERING
+AMELIORATIONS    FAIRNESS         NAPLES           SHERBET
+AMWAY            FELIPE           NIGGARD          SHOWINGS
+ANTEDATES        FLIPPERS         NIPPONS          SHUCK
+APPEASEMENTS     FOOLISHNESS      NONCOMBATANTS    SHUTDOWNS
+AUTOPILOT        FORTUNATE        NOTIFICATIONS    SICKENINGLY
+AZANAS           FREEZES          OUTMANOEUVRES    SLICKNESS
+BASSOON          FUZZINESS        PAGINATE         SNACKING
+BATHTUB          GARROTTE         PERFORMER        SNORES
+BATSMANS         GOODIES          PESTILENT        SNORKELS
+BERKSHIRESS      HAPHAZARDLY      PHLEBITISS       SOFTNESS
+BESSEMERS        HEEHAWS          PILLARS          SOYINKAS
+BOBCAT           HERACLITUS       PITCHFORKS       SPACESHIP
+BOGEYS           HILARY           PIVOTED          SPARED
+BRETT            HIPPARCHUS       PLEADER          SPECKLE
+BRICKLAYINGS     HOAXERS          POCKMARKS        SQUISHED
+BUNTINGS         HONORABLE        POMERANIA        STARLINGS
+BUSSS            HYPNOTISM        POORHOUSES       STATISTICS
+BYELORUSSIAS     INHUMANLY        PORTRAITISTS     STREAMLINING
+CACHES           ISOTOPES         POWERFULLY       SUFFRAGETTES
+CAMELLIA         IVANHOES         PRECIPITATED     SUNFISHS
+CANES            JOCKSTRAPS       PREDISPOSITIONS  SUPERFICIALITYS
+CARBOYS          JONATHON         PREOCCUPATIONS   TANTALUS
+CATECHISED       JOSEFINA         PRESERVES        TARKENTON
+CHAPERON         KAFTANS          PRIORITYS        THICKSET
+CHARYBDISS       KATYS            PROMENADE        THOUSAND
+CHATTY           KILNS            QUIBBLERS        THRALDOMS
+CHEFS            KNICKKNACKS      RECONSTRUCTED    THREESCORES
+CLIMBS           KNOBBIEST        RECOVERABLE      TRANSMUTED
+CLIOS            LADDIES          REFINERY         ULTIMATUMS
+COEXISTS         LANDSATS         REPLACEABLE      UNDOINGS
+COLONES          LEGWORK          RESPECTFUL       UNSPEAKABLE
+COLORS           LITERAL          RETRENCHES       UTICA
+CONSERVATISMS    LODES            RIGHTNESS        VALISES
+COOKE            LUCKS            ROLLED           VANGUARD
+COPS             MALTREATMENT     ROSARIOS         VINDICATES
+CROSSWORD        MAMET            ROSINS           WARMTH
+DAREDEVILS       MARPLE           RUMPELSTILTSKINS WASNT
+DARRENS          MASCAGNIS        SACRAMENTS       WEDLOCKS
+DAUBERS          MCNAUGHTON       SAMARITAN        WHITTLING
+DENSITYS         MEALTIME         SAYINGS          WILKERSON
+DESERVES         MEDIAS           SAYS             WINDWARDS
+DESPERADOS       MEMBERSHIP       SCABIES          WORLDWIDE
+DESTRUCTIVENESS  MILLER           SCHEHERAZADES    XEROXES

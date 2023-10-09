@@ -1,0 +1,82 @@
+Solution:
+- - T C - - - - - - - - - - D A E R H T - - - - R I - - A - 
+- Y T N O I T I N I F E D - - - - V S - - - - - O N - S - - 
+- - C - A N - - - M H T I R O G L A I H - - - - T H S - - - 
+- - E N - R S - G L O B A L S - N - T T A - - - A E - - - - 
+- B J - E - T T - - - - - S F - - O - T I D - - R R - - - - 
+- A B - - R - N R - - - A - - R S - I - R M O T E I - - - - 
+- S O - - - R - E U - L - V - S I - - T - I I W T T - - - - 
+D E T A R E M U N E C - - L E Y E E - - A O B R I A - D - - 
+- C R - S G M - C D R T - C E R - L N - N D - U P N E - - - 
+- L E E - E - S E N - - O - - A S - U D B - I - T C G - - - 
+- A C - F N C V I - O R - R - R S I - R - A - L L E - - - - 
+- S N - - E I O - H P C E - - B - T O - N - S A A - - - - - 
+- S A - D R R V N - P - - T - I - - A N - O R E - V - R - - 
+- - T - E A - E - D - R - - T L - - - S C A I - L - A O - - 
+- - I D S L - R N - S D O H T E M - - - T O - T - I - T K - 
+- W R - T I - R O C T Y - M - T S - - I - O N - A - N C A - 
+- A E - R Z - I I - E H S - Y A - - O - - - N T - D A E - D 
+- T H - U A - D T - M C N T - L - N - - - - O I R T I L - - 
+- E N - C T - E A - P R O - E P O - - - - - I - S O - L - - 
+- R I - T I - - Z - L A I U - M - P - - - - T - - H L O A - 
+- F E - O O - - I - A R T - N E E - - - - - P - - - M C - V 
+- A L - R N - - L - T E A - - T - F - N A M E S P A C E I - 
+- L P - - - - - A - E I L - - D E - F - - - C - - - - G N - 
+- L I - - - - - I - - H U - - R - R - E - - X E T U M A S T 
+- - T - B R A N C H - S S - - A - - - - C - E - - - - B T - 
+- - L - A G I L E - - S P - - D - - - R O T A R E P O R A - 
+- - U - - - - - P - - A A - - N - - - - - I N V A R I A N T 
+- - M - - - - - S - - L C - V A R I A B L E - - - - - G C - 
+- - - - - - - - - - - C N G E T T E R - - - - - - - - - E - 
+- - - - - - - - - - - - E A B S T R A C T I O N - - - - - - 
+
+A E T C D L O M R R T S C A D A E R H T O A S E R I C O A R 
+I Y T N O I T I N I F E D T V F I V S T N R C T O N E S C R 
+O R C R A N R I C M H T I R O G L A I H T D E N T H S R R C 
+A S E N A R S P G L O B A L S C N C T T A G E S A E U I L E 
+T B J D E N T T O E E T E S F S L O C T I D T A R R E T B A 
+I A B N R R E N R T I E A S E R S P I I R M O T E I U X O E 
+U S O I T H R D E U B L I V I S I D Y T V I I W T T O A D E 
+D E T A R E M U N E C R I L E Y E E L O A O B R I A L D T A 
+N C R S S G M E C D R T A C E R E L N C N D R U P N E N P S 
+S L E E A E L S E N O I O A A A S E U D B D I R T C G R T A 
+B A C T F N C V I I O R I R Z R S I Z R C A E L L E E T A E 
+E S N R T E I O T H P C E N O B A T O E N Y S A A E E R O U 
+A S A T D R R V N N P I E T L I N E A N S O R E N V I R I P 
+B O T E E A P E S D O R L P T L A N N S C A I N L L A O R E 
+T A I D S L V R N E S D O H T E M T N S T O T T X I E T K S 
+S W R P T I L R O C T Y T M E T S O D I I O N C A E N C A I 
+E A E B R Z Z I I T E H S F Y A L E O L E S N T G D A E N D 
+R T H E U A E D T L M C N T L L T N D C I V O I R T I L O R 
+L E N A C T B E A N P R O P E P O D E T N I I S S O N L T M 
+A R I O T I H V Z I L A I U N M Y P D C H O T H S H L O A S 
+N F E E O O T S I T A R T R N E E U E B L C P T A P M C U V 
+O A L E R N A S L E T E A T A T A F D N A M E S P A C E I D 
+E L P E D Y O F A V E I L U E D E T F T C R C N B T Y G N A 
+P L I R A A T E I E A H U T B R R R A E R I X E T U M A S T 
+R I T R B R A N C H H S S S I A A N I J C N E N P S S B T E 
+L N L A A G I L E A E S P N N D T S R R O T A R E P O R A P 
+S E U D R X R A P B O A A R R N B E T N E I N V A R I A N T 
+H T M I R A A P S L A L C D V A R I A B L E A B Y I I G C A 
+L E O A D T O L T S E C N G E T T E R H T T R R S L C A E C 
+R A O L H Y N R T O R M E A B S T R A C T I O N A E L E O A 
+
+
+ABSTRACTION             EXCEPTION               POLYMORPHISM
+AGILE                   FRIEND                  PRIMITIVE
+ALGORITHM               GARBAGECOLLECTOR        PROCESS
+ASSERTION               GENERALIZATION          REENTRANT
+ATTRIBUTE               GETTER                  REFERENCECOUNTER
+BASECLASS               GLOBAL                  SECONDSYSTEMEFFECT
+BASELINE                INHERITANCE             SETTER
+BRANCH                  INSTANCE                SHADOWING
+CLASSHIERARCHY          INVARIANT               SPECIALIZATION
+CONCURRENCY             ITERATOR                STACK
+CONSTRUCTOR             LEASTASTONISHMENT       STANDARDTEMPLATELIBRARY
+DATAVALIDATION          METHOD                  TEMPLATE
+DECLARATION             MULTIPLEINHERITANCE     THREAD
+DEFINITION              MUTEX                   VALIDATIONRULES
+DERIVEDCLASS            NAMESPACE               VARIABLE
+DESTRUCTOR              OBJECT                  VERSIONCONTROL
+ENCAPSULATION           OPERATOR                WATERFALL
+ENUMERATED              OVERRIDE              
