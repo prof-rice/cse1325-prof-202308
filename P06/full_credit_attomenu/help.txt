@@ -1,0 +1,265 @@
+About the Library Management System
+===================================
+
+The LMS was written to assist busy librarians with tracking library resources
+without overwhelming them with training and complex interfaces. 
+
+Each resource tracked by the system may be checked out to a named patron when
+loaned out and then checked by in when returned. Lists of all tracked resources
+and their status are available at any time.
+
+From the main menu, the following options are offered:
+
+l -> List Publications
+o -> Check Out
+i -> Check In
+p -> New Publication
+v -> New Video
+? -> this help text
+? _ -> help on the menu item represented by _
+x -> Exit the system
+
+#
+List Publications
+=================
+
+Each resource is identified by its LMS ID (a positive integer), title, author, 
+and copyright date. Video resources also include a runtime in minutes.
+
+For example,
+
+0) Book "Foundation" by Isaac Asimov, copyright 1951
+1) Video "Citizen Kane" by Orson Welles, copyright 1941, runtime 119 minutes
+
+If a resource has been checked out, a second line of text will identify
+the patron who has that resource and the date it is due to be returned.
+
+#
+Check Out
+=========
+
+Check out behaves differently in 3 scenarios.
+
+1. If no resources are currently in the library, the message 
+
+    No publications available for checkout
+
+will be displayed, and the librarian will be returned to the main menu.
+
+2. If only one resource is currently available for check out in the library, 
+it will be automatically selected. 
+
+3. If two or more resources are currently available for check out in the library, 
+all resources managed by the LMS that are available for check out will be listed 
+similar to List Publications (with a new, temporary LMS ID), and the librarian 
+will be prompted to select a resource using the tempoarary LMS ID. The librarian
+may enter 'x' to cancel the check out with the message
+
+    Selection for check out cancelled
+
+Once the resource has been selected, the librarian will be asked to type 
+a line of text identifying the patron who is checking out the resource. 
+The full name and some identifying information such as phone number,
+email address, or driver's license / ID card number is suggested.
+
+The selected resource will then be marked as checked out, and its updated
+status including due date will be displayed.
+
+#
+Check In
+========
+
+Check in behaves differently in 3 scenarios.
+
+1. If no resources are currently in the library, the message 
+
+    No publications available for checkin
+
+will be displayed, and the librarian will be returned to the main menu.
+
+2. If only one resource is currently available for check in in the library, 
+it will be automatically selected. 
+
+3. If two or more resources are currently available for check in in the library, 
+all resources managed by the LMS that are available for check in will be listed 
+similar to List Publications (with a new, temporary LMS ID), and the librarian 
+will be prompted to select a resource using the tempoarary LMS ID. The librarian
+may enter 'x' to cancel the check in.
+
+Once the resource has been selected, that resource will then be marked as 
+checked in, and its updated status will be displayed.
+
+#
+New Publication
+===============
+
+The title of the publication (any text) will be requested with the prompt
+
+    Enter new Publication's title:
+
+Just pressing Enter will cancel creation of the new publication with the message
+
+    New publication entry cancelled
+
+The author of the publication (any text) will be requested with the prompt
+
+    Enter new Publication's author:
+
+Just pressing Enter will again cancel creation of the new publication.
+
+The copyright of the publication (1900 to the current year) will be requested 
+with the prompt
+
+    Enter new Publication's copyright:
+
+Just pressing Enter will again cancel creation of the new publication.
+If non-integer characters are entered, the error message
+
+    #### That is not an int!
+
+will be displayed, followed by the same prompt.
+If an invalid date is entered, creation of the publication will be cancelled
+with the error message
+
+    #### Unable to create new Publication
+
+Otherwise, the publication will be created, set to checked in, and added
+to the library.
+
+#
+New Video
+=========
+
+The title of the video (any text) will be requested with the prompt
+
+    Enter new video's title:
+
+Just pressing Enter will cancel creation of the new video with the message
+
+    New video entry cancelled
+
+The author of the video (any text) will be requested with the prompt
+
+    Enter new video's author:
+
+Just pressing Enter will again cancel creation of the new video.
+
+The copyright of the video (1900 to the current year) will be requested 
+with the prompt
+
+    Enter new video's copyright:
+
+Just pressing Enter will again cancel creation of the new video.
+If non-integer characters are entered, the error message
+
+    #### That is not an int!
+
+will be displayed, followed by the same prompt.
+If an invalid date is entered, creation of the video will be cancelled
+with the error message
+
+    #### Unable to create new video
+
+Otherwise, the runtime of the video will be requested with the prompt
+
+    Enter new Video's runtime (in minutes):
+
+Just pressing Enter will again cancel creation of the new video.
+If non-integer characters are entered, the error message
+
+    #### That is not an int!
+
+will be displayed, followed by the same prompt.
+If a runtime less than 1 is entered, for example -3, the error message
+
+    #### -3 is not between 1 and 2147483647
+
+will be displayed, followed by the same prompt.
+
+Otherwise, the video will be created, set to checked in, and added
+to the library.
+
+#
+File Submenu
+============
+
+This opens a sub-menu allowing the user to save the file to the current filename,
+save to a newly selected filename, or open for a selected filename.
+
+#
+Open Library
+============
+
+A file navigator will open in the filesystem so the user can select a file to open.
+If an existing file is open, the file navigator will open in the same directory
+as the existing file, otherwise it will open in the user's home directory.
+
+Subdirectories (shown with a trailing '/', '\', or ':' depending on the operating
+system) and files in the starting directory will be listed in case-insensitive 
+sort order along with 4 additional options: 
+
+(0) .. changes to the parent directory 
+(1) . selects the current directory
+(2) + prompts for a new subdirectory path, and creates and changes to it 
+(3) ++ prompts for a new filename and selects it 
+
+If a subdirectory is selected it is opened and navigated as above. 
+
+If a file is selected it will be opened as a library.
+
+Note that creating a new file or selecting a directory, options 1 and 3 above, 
+will result in an error since a new file or a directory has no library data
+within it to open.
+
+If the user enters a number not shown in the menu or a non-numeric command, 
+an error message is displayed followed by the prompt. 
+
+If the user enters 'x', opening the library is canceled and the user is returned
+to the main menu.
+
+#
+Save Library
+============
+
+If the current library was opened from a file or has been saved to a file before,
+the library is written to the same file.
+
+Otherwise, this command is treated exactly as Save Library As.
+
+#
+Save Library As
+===============
+
+A file navigator will open in the filesystem so the user can select an existing
+or create a new file to which to save the library. 
+
+If an existing file is open, the file navigator will open in the same directory
+as the existing file, otherwise it will open in the user's home directory.
+
+Subdirectories (shown with a trailing '/', '\', or ':' depending on the operating
+system) and files in the starting directory will be listed in case-insensitive 
+sort order along with 4 additional options: 
+
+(0) .. changes to the parent directory 
+(1) . selects the current directory
+(2) + prompts for a new subdirectory path, and creates and changes to it 
+(3) ++ prompts for a new filename and selects it 
+
+To create a new subdirectory to contain the library file, select (2).
+The file navigator will create the subdirectory and navigate to it,
+allowing the user to create a file (3) or create a further subdirectory (2).
+
+If a subdirectory is selected it is opened and navigated as above.
+
+If an existing file is selected it will be overwritten without further warning. 
+
+Note that selecting a directory, option 1 above, will result in an error,
+since a library cannot be written to a directory.
+
+If the user enters a number not shown in the menu or a non-numeric command, 
+an error message is displayed followed by the prompt. 
+
+If the user enters 'x', saving the library is canceled and the user is returned
+to the main menu.
+
+
